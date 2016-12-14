@@ -16,5 +16,5 @@ categories:
 - Lorem ipsum
 twitter_text: 'How to speak with Lorem'
 ---
-
-Blog: [Here](http://https://u80250-kenshin.github.io/dev-blog/ "blog")
+``````
+Blog: [Here](http://u80250-kenshin.github.io/dev-blog/ "blog")
