@@ -37,7 +37,7 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: dev-blog
-    url: https://github.com/u80250-kenshin/dev-blog 
+  - name: docker-sf2
+    url: https://github.com/u80250-kenshin/docker-sf2
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
