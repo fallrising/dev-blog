@@ -4,5 +4,28 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
 
+<p>
+[2017.08.12]<br>
+一直想寫一個技術相關的blog，不過總是給自己找了好多理由沒去做。<br>
+<br>
+收集了不少工作上的筆記，卻很少去 review 再加上自己記憶力也不太好，<br>
+以至於每次別人問我，你以前都幹了什麼好事，解了什麼 bug，<br>
+我的腦子裡都是一片空白。<br>
+<br>
+這個 blog 從建立到現在荒廢放了很久，<br>
+以前也用過無名小站、google blog、FB 之類的來寫一些東西，<br>
+不過都不是很有系統的整理......<br>
+<br>
+架一個網站，有自己的 domain，<br>
+感覺就像工程師會做的事情，<br>
+而且可以建立一下個人品牌XD<br>
+<br>
+之前在一些免費的 PAAS 服務上，像是 openshift，也架過 wordpress<br>
+不過一樣沒有持續下去，而且免費服務其實也不太穩定。<br>
+<br>
+看了下 github 的紀錄，2016 的 12 月，我就已經建好部落格。<br>
+這八個月來，發生了一些事，我的 blog 毫無進展，世界停止轉動。<br>
+今天開始要忘記那些不開心的事，『用你的微笑改變世界，不要讓世界改變了你的微笑。』<br>
+</p>
