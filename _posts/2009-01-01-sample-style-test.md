@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Sample 02"
-description: "Test post for style"
-date: 2009-02-01
-tags: [test, style]
-comments: true
-share: true
+title: "Lorem ipsum speak.."
+date: 2016-09-13 01:00:00
+image: '/assets/img/post-image.png'
+description: 'about tech'
+tags:
+- lorem
+- tech 
+categories:
+- Lorem ipsum
+twitter_text: 'How to speak with Lorem'
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
